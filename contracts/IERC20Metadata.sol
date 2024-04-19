@@ -1,3 +1,4 @@
+//SPDX-License-Identifier: UNLICENSED
 // File: @openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol
 
 
